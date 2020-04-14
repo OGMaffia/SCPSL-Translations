@@ -1,0 +1,29 @@
+Eripära pole leitud:Eripära koodi (ID-d) ei eksisteeri.
+Jooksmine:Teeb tegelase kiiremaks aga samas liikumise valjemaks.
+Hiilimine:Teeb tegelase aeglasemaks aga samas liikumise vaikseks.
+Inventar:Open your inventory and select an item you have picked up using LMB, or drop it using RMB.
+Paljakäsi:Sul ei ole tuhkagi. Leia midagi. Midagigi.
+Kiipkaart:Sul on kiipkaart, pole just kõige parem aga ära seda kaota.
+Tavavarustus:Sul on püss, Granaat, Raadiosaatja, Relvituks tegija ja kiipkaart.
+Hambuni relvastatud:Teile on antud kuulipilduja, improviseeritud kiipkaart ja esmaabi kohver.
+Sörkjooks:Siis kui inimesed sind ei näe, liigud väga kiiresti. Kui sind vaadatakse inimese poolt ei saa sa liikuda ega rünnata, kõik inimesed pilgutavad iga paari sekundi tagant, tol ajal saate tegutseda.
+Paanika: Liigute kiiremini kui teie elud langevad.
+Süvend:Saate maha panna musta söövitava lombi, kuhu saate iga hetk teleporteeruda. Teleportimine võtab paar sekundit\nSaate oma lombi asukohta muuta seda uuesti maha pannes.
+Söövitamine:Saate ustest läbi kõndida.
+Luige laul:Te ei kaota peaaegu üldse elusi tina saades, kuid teid saadakse kinni püüda inimohverduse teel. Inimohverdus toimub teie isolatsioonikambri juures.
+Tasku dimensioon:Püüdes kinni inimese, satub ta tasku dimensiooni kus sureb ta kiirelt. Inimene peab valima õige väljapääsu et pääseda.
+Arg:Tavaliselt kõnnid aeglaselt ja nutad vaikselt. Kui inimesed teid piisavalt vaatavad, jääte seisma viieks sekundiks ning sisenete raevu.
+Antisotsiaalne raev:Raevunud olekus liigute väga kiirelt ja karjute valjult. Raev kestab umbes kakskümmend sekundit; pärast raevu lõppu ei saa te raevu siseneda mõnda aega, sellel ajal te ei nuta\nRaevunud olekus vajutades või hoides all seda nuppu saate automaatselt lähedal olevaid inimesi tappa.
+Lammutamine:Raevunud olekus ukse avamine lööb ukse hingedelt maha.
+Ülimsensitiivne:Te ei näe inimesi kui nad ei liigu, müksa teid ega tulista teie läheduses.
+Jahiloom:Teie sammud on vaiksed. Hoides määratud nuppu liigute kiiremini aga teie samme on kuulda.
+Ahvimine:Saate lähedal olevate mängijatega rääkida, kaasa arvatud inimestega.
+Hammustamine:Ründab inimesi käeulatuses tehes suurt kahju.
+Antidoot:Inimest puutudes tapate ta kohe.
+Ravim:Saate oma värsket saaki elustada. Ravitud mängijad mängivad edasi zombidena kellel on kiire liikumine ja vähe elusi.\nZombide arvul ei ole piiri.
+Löök:Lüües inimest saate talle teha kahju.
+Uste sulgemine/avamine:Saate uksi avada ja sulgeda 5AP eest, saate uksi ka lukustada mis tühjendab teie AP varusi, keegi ei saa lukustatud uksi avada kuni teie AP otsa saab või ukse lukust lahti teete
+Tesla Ülelaadimine:Saate aktiveerida Tesla Värava 50 AP eest, tappes inimese kes seda läbib.
+Koduarest:Alates pääsutase kolmest saate terveid ruume lukku panna sulgedes kõik uksed ja kustutades kõik tuled. Lukus olevas ruumis ei näe inimesed SCP-173 -me
+Virtuaalselt Hävitamatu:Rangesse isolatsiooni tekib viis generaatorit, juhul kui need kõik tööle saadakse oled mängu kaotanud.\nGeneraatoritel on aktiveerimisaeg mida iga mängija saab katkestada vajutades generaatoril asuvale nupule "TÜHISTA"
+Kaela murre:Hoia või vajuta et inimese kaela murda, see tapab nad otsekohe juhul kui nad teid ei näe või pilgutavad.
